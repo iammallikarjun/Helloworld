@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 6E93-4DB3
+
+ Directory of C:\Users\dayanand\Desktop\Javaproject
+
+11/08/2017  12:42 PM    <DIR>          .
+11/08/2017  12:42 PM    <DIR>          ..
+11/08/2017  11:25 AM               675 Hello.class
+11/07/2017  09:18 PM               161 Hello.java
+11/08/2017  12:42 PM                 0 read.txt
+               3 File(s)            836 bytes
+               2 Dir(s)  423,949,656,064 bytes free
